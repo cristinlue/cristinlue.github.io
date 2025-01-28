@@ -1,0 +1,14 @@
+---
+title: "Cristin E Lue's Portfolio"
+about: 
+    template: jolla 
+    links:
+        - icon: linkedin
+          text: LinkedIn
+          href: https://www.linkedin.com/in/cristin-lue
+        - icon: github
+          text: Github
+          href: https://github.com/cristinlue
+---
+
+Welcome to my webpage! 

@@ -1,0 +1,16 @@
+---
+title: "About"
+---
+
+# About this site
+
+## Who am I?
+
+As a dedicated and detail-oriented professional with 3 years of experience at Northrop Grumman, I have honed my expertise in electronics engineering, data analysis, and project management. During my time at Northrop, I advanced from an internship to a Test Engineer role, where I contributed to process improvements, authored custom test procedures, and collaborated with cross-functional teams on critical testing and manufacturing projects. My work included leveraging tools like VBA and LabVIEW to develop interfaces and analyze data, driving efficiency and accuracy in testing environments.
+
+I hold a BS in Mathematics with a minor in Analytics from Chapman University, graduating Magna Cum Laude and earning the Outstanding Senior Award. As a student-athlete, I developed strong time management and leadership skills, balancing academics and athletics. Currently, I am pursuing a Master of Science in Business Analytics at the University of California, Irvine, further building my skills in Python, RStudio, SQL, and Tableau to solve complex business problems through data-driven solutions.
+
+## What is my Mission? 
+
+Whether it's collaborating on technical projects, driving data-based insights, or refining operational workflows, I am passionate about applying my analytical mindset to deliver meaningful results. I'm always looking for opportunities to learn and grow in the fields of engineering, technology, sports, and business analytics.
+
